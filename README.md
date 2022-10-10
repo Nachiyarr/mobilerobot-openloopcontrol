@@ -34,9 +34,7 @@ Execute the python program and record the movements.
 #Program Developed by:Alagu Nachiyar K
 
 #Register no:22002084
-```
-
-python
+```python
 from robomaster import robot
 import time
 
@@ -78,8 +76,9 @@ if __name__ == '__main__':
     ep_chassis.drive_speed(x=0,y=0,z=0)
     
     ep_robot.close()
-    ```
     
+    
+```
 
 
 ## MobileRobot Movement Image:
