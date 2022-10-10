@@ -98,7 +98,7 @@ if __name__ == '__main__':
 
 ## MobileRobot Movement Video:
 
-Upload your video in Youtube and paste your video-id here
+
 
 https://www.youtube.com/shorts/t8nVyGZvT7w
 
