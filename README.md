@@ -110,11 +110,8 @@ https://www.youtube.com/shorts/t8nVyGZvT7w
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
-
-<br/>
-<br/>
-
-
+```
 Mobile Robotics Laboratory
 Department of Artificial Intelligence and Data Science/ Machine Learning
 Saveetha Engineering College
+```
