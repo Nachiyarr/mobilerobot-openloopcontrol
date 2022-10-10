@@ -83,7 +83,7 @@ if __name__ == '__main__':
 
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
+
 
 ![3da455f5-37cb-4534-8edb-79a445f7d49e](https://user-images.githubusercontent.com/113497340/194830652-f808ca35-8b0d-4e45-a613-8b5883a38456.jpeg)
 
